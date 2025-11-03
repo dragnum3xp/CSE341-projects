@@ -1,0 +1,6 @@
+
+### Get all contacts
+GET http://localhost:3000/contacts
+
+### Get contact by Id
+GET http://localhost:3000/contacts/6904c42ac0d6bd8a293b47ed
